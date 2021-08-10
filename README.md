@@ -8,4 +8,4 @@
 momartinjazz/momartinjazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Meet momartinjazz my new Octocat for my first day at GitHub](https://github.com/momartinjazz/momartinjazz/blob/main/momartinjazz-octocat.png)
+Today is my first day. Meet momartinjazz. ![Meet momartinjazz my new Octocat for my first day at GitHub](https://github.com/momartinjazz/momartinjazz/blob/main/momartinjazz-octocat.png)
